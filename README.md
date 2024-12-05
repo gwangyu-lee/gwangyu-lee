@@ -26,8 +26,8 @@
 </a>
 
 <a href="https://github.com/gwangyu-lee/iKeleton-OSC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC"/>
 </a>
 <a href="https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music"/>
 </a>
