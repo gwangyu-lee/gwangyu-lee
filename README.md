@@ -16,8 +16,18 @@
 ![unity](https://img.shields.io/badge/unity-d5f6f3.svg?&style=for-the-badge&logo=unity&logoColor=000000)
 ![threedotjs](https://img.shields.io/badge/threedotjs-d5f6f3.svg?&style=for-the-badge&logo=threedotjs&logoColor=000000)
 
-[![Gwagyu Lee's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwangyu-lee&layout=donut&bg_color=d5f6f3&title_color=000000)](https://github.com/gwangyu-lee/github-readme-stats)
-
 ##
 
-![Gwagyu Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangyu-lee&show_icons=true&theme=transparent&bg_color=d5f6f3&title_color=000000)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gwangyu-lee&bg_color=d5f6f3&title_color=000000" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwangyu-lee&layout=compact&langs_count=8&card_width=320&bg_color=d5f6f3&title_color=000000" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music" />
+</a>
