@@ -19,16 +19,16 @@
 ##
 
 <a href="https://github.com/gwangyu-lee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gwangyu-lee&bg_color=d5f6f3&title_color=000000&card_width=400&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gwangyu-lee&bg_color=d5f6f3&title_color=000000&show_icons=false" />
 </a>
 <a href="https://github.com/gwangyu-lee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwangyu-lee&layout=compact&langs_count=8&card_width=400&bg_color=d5f6f3&title_color=000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwangyu-lee&layout=compact&langs_count=8&card_width=320&bg_color=d5f6f3&title_color=000000" />
 </a>
 
 ##
 <a href="https://github.com/gwangyu-lee/iKeleton-OSC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC&card_width=400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC"/>
 </a>
 <a href="https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music&card_width=400"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music"/>
 </a>
