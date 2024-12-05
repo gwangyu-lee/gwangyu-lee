@@ -25,18 +25,19 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gwangyu-lee&layout=compact&langs_count=8&card_width=320&bg_color=d5f6f3&title_color=000000" />
 </a>
 
-##
+## Pinned repositories
 <a href="https://github.com/gwangyu-lee/iKeleton-OSC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iKeleton-OSC&bg_color=d5f6f3&title_color=000000"/>
 </a>
 <a href="https://github.com/gwangyu-lee/TouchDesigner-X-Computer-Music">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=TouchDesigner-X-Computer-Music&bg_color=d5f6f3&title_color=000000"/>
 </a>
 
-##
-<a href="https://github.com/gwangyu-lee/KlakNDI-visionOS-Demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=KlakNDI-visionOS-Demo"/>
-</a>
+###
+
 <a href="https://github.com/gwangyu-lee/iXR-OSC-NDI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iXR-OSC-NDI"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=iXR-OSC-NDI&bg_color=d5f6f3&title_color=000000"/>
+</a>
+<a href="https://github.com/gwangyu-lee/KlakNDI-visionOS-Demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gwangyu-lee&repo=KlakNDI-visionOS-Demo&bg_color=d5f6f3&title_color=000000"/>
 </a>
