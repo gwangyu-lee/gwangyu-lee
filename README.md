@@ -6,6 +6,11 @@
  </a> 
 </p>
 
+## Computer Music, Media Art & Development
+
+<img src="https://github.com/user-attachments/assets/d7929543-72da-43c7-8d8d-251d77153636" width="780">
+
+
 ## Languages
 
 ![swift](https://img.shields.io/badge/swift-d5f6f3.svg?&style=for-the-badge&logo=swift&logoColor=F05138)
